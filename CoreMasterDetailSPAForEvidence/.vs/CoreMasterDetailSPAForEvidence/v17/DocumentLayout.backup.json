@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|c:\\users\\walton\\desktop\\book\\coremasterdetailspaforevidence (1)\\coremasterdetailspaforevidence\\coremasterdetailspaforevidence\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|solutionrelative:coremasterdetailspaforevidence\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|c:\\users\\walton\\desktop\\book\\coremasterdetailspaforevidence (1)\\coremasterdetailspaforevidence\\coremasterdetailspaforevidence\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|solutionrelative:coremasterdetailspaforevidence\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|c:\\users\\walton\\desktop\\book\\coremasterdetailspaforevidence (1)\\coremasterdetailspaforevidence\\coremasterdetailspaforevidence\\views\\shared\\_createstudentpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|solutionrelative:coremasterdetailspaforevidence\\views\\shared\\_createstudentpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|c:\\users\\walton\\desktop\\book\\coremasterdetailspaforevidence (1)\\coremasterdetailspaforevidence\\coremasterdetailspaforevidence\\views\\shared\\_editstudentpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|solutionrelative:coremasterdetailspaforevidence\\views\\shared\\_editstudentpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|c:\\users\\walton\\desktop\\book\\coremasterdetailspaforevidence (1)\\coremasterdetailspaforevidence\\coremasterdetailspaforevidence\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|solutionrelative:coremasterdetailspaforevidence\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|c:\\users\\walton\\desktop\\book\\coremasterdetailspaforevidence (1)\\coremasterdetailspaforevidence\\coremasterdetailspaforevidence\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|solutionrelative:coremasterdetailspaforevidence\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|c:\\users\\walton\\desktop\\book\\coremasterdetailspaforevidence (1)\\coremasterdetailspaforevidence\\coremasterdetailspaforevidence\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|solutionrelative:coremasterdetailspaforevidence\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|c:\\users\\walton\\desktop\\book\\coremasterdetailspaforevidence (1)\\coremasterdetailspaforevidence\\coremasterdetailspaforevidence\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|solutionrelative:coremasterdetailspaforevidence\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|c:\\users\\walton\\desktop\\book\\coremasterdetailspaforevidence (1)\\coremasterdetailspaforevidence\\coremasterdetailspaforevidence\\views\\shared\\_addmodules.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|solutionrelative:coremasterdetailspaforevidence\\views\\shared\\_addmodules.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|c:\\users\\walton\\desktop\\book\\coremasterdetailspaforevidence (1)\\coremasterdetailspaforevidence\\coremasterdetailspaforevidence\\models\\coursemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|solutionrelative:coremasterdetailspaforevidence\\models\\coursemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|c:\\users\\walton\\desktop\\book\\coremasterdetailspaforevidence (1)\\coremasterdetailspaforevidence\\coremasterdetailspaforevidence\\models\\viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|solutionrelative:coremasterdetailspaforevidence\\models\\viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|c:\\users\\walton\\desktop\\book\\coremasterdetailspaforevidence (1)\\coremasterdetailspaforevidence\\coremasterdetailspaforevidence\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|solutionrelative:coremasterdetailspaforevidence\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|c:\\users\\walton\\desktop\\book\\coremasterdetailspaforevidence (1)\\coremasterdetailspaforevidence\\coremasterdetailspaforevidence\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|solutionrelative:coremasterdetailspaforevidence\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|c:\\users\\walton\\desktop\\book\\coremasterdetailspaforevidence (1)\\coremasterdetailspaforevidence\\coremasterdetailspaforevidence\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|solutionrelative:coremasterdetailspaforevidence\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|c:\\users\\walton\\desktop\\book\\coremasterdetailspaforevidence (1)\\coremasterdetailspaforevidence\\coremasterdetailspaforevidence\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|solutionrelative:coremasterdetailspaforevidence\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|c:\\users\\walton\\desktop\\book\\coremasterdetailspaforevidence (1)\\coremasterdetailspaforevidence\\coremasterdetailspaforevidence\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|solutionrelative:coremasterdetailspaforevidence\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|c:\\users\\walton\\desktop\\book\\coremasterdetailspaforevidence (1)\\coremasterdetailspaforevidence\\coremasterdetailspaforevidence\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|solutionrelative:coremasterdetailspaforevidence\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|c:\\users\\walton\\desktop\\book\\coremasterdetailspaforevidence (1)\\coremasterdetailspaforevidence\\coremasterdetailspaforevidence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|solutionrelative:coremasterdetailspaforevidence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|c:\\users\\walton\\desktop\\book\\coremasterdetailspaforevidence (1)\\coremasterdetailspaforevidence\\coremasterdetailspaforevidence\\coremasterdetailspaforevidence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|solutionrelative:coremasterdetailspaforevidence\\coremasterdetailspaforevidence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|c:\\users\\walton\\desktop\\book\\coremasterdetailspaforevidence (1)\\coremasterdetailspaforevidence\\coremasterdetailspaforevidence\\migrations\\20250507121327_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7C49E6-AFA1-4107-A9F0-2CB3FF529F89}|CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj|solutionrelative:coremasterdetailspaforevidence\\migrations\\20250507121327_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "CoreMasterDetailSPAForEvidence\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "CoreMasterDetailSPAForEvidence\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:23:19.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_CreateStudentPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Views\\Shared\\_CreateStudentPartial.cshtml",
+              "RelativeDocumentMoniker": "CoreMasterDetailSPAForEvidence\\Views\\Shared\\_CreateStudentPartial.cshtml",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Views\\Shared\\_CreateStudentPartial.cshtml",
+              "RelativeToolTip": "CoreMasterDetailSPAForEvidence\\Views\\Shared\\_CreateStudentPartial.cshtml",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAGUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T12:55:49.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CoreMasterDetailSPAForEvidence\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Models\\Student.cs",
+              "RelativeToolTip": "CoreMasterDetailSPAForEvidence\\Models\\Student.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:54:03.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreMasterDetailSPAForEvidence\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "CoreMasterDetailSPAForEvidence\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T12:34:39.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CoreMasterDetailSPAForEvidence\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CoreMasterDetailSPAForEvidence\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T12:15:36.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CoreMasterDetailSPAForEvidence\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CoreMasterDetailSPAForEvidence\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T12:16:06.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\appsettings.json",
+              "RelativeDocumentMoniker": "CoreMasterDetailSPAForEvidence\\appsettings.json",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\appsettings.json",
+              "RelativeToolTip": "CoreMasterDetailSPAForEvidence\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T11:52:15.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_EditStudentPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Views\\Shared\\_EditStudentPartial.cshtml",
+              "RelativeDocumentMoniker": "CoreMasterDetailSPAForEvidence\\Views\\Shared\\_EditStudentPartial.cshtml",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Views\\Shared\\_EditStudentPartial.cshtml",
+              "RelativeToolTip": "CoreMasterDetailSPAForEvidence\\Views\\Shared\\_EditStudentPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T09:55:49.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreMasterDetailSPAForEvidence\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CoreMasterDetailSPAForEvidence\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T12:22:21.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_AddModules.cshtml",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Views\\Shared\\_AddModules.cshtml",
+              "RelativeDocumentMoniker": "CoreMasterDetailSPAForEvidence\\Views\\Shared\\_AddModules.cshtml",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Views\\Shared\\_AddModules.cshtml",
+              "RelativeToolTip": "CoreMasterDetailSPAForEvidence\\Views\\Shared\\_AddModules.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T13:04:41.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CoreMasterDetailSPAForEvidence\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "CoreMasterDetailSPAForEvidence\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:57:14.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Models\\ViewModels\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "CoreMasterDetailSPAForEvidence\\Models\\ViewModels\\StudentViewModel.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Models\\ViewModels\\StudentViewModel.cs",
+              "RelativeToolTip": "CoreMasterDetailSPAForEvidence\\Models\\ViewModels\\StudentViewModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwBoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:17:28.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseModule.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Models\\CourseModule.cs",
+              "RelativeDocumentMoniker": "CoreMasterDetailSPAForEvidence\\Models\\CourseModule.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Models\\CourseModule.cs",
+              "RelativeToolTip": "CoreMasterDetailSPAForEvidence\\Models\\CourseModule.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:54:36.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "CoreMasterDetailSPAForEvidence\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "CoreMasterDetailSPAForEvidence\\Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T13:01:00.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CoreMasterDetailSPAForEvidence\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CoreMasterDetailSPAForEvidence\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T12:15:54.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CoreMasterDetailSPAForEvidence\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CoreMasterDetailSPAForEvidence\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:20:26.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "CoreMasterDetailSPAForEvidence\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Models\\Course.cs",
+              "RelativeToolTip": "CoreMasterDetailSPAForEvidence\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:54:45.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250507121327_init.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Migrations\\20250507121327_init.cs",
+              "RelativeDocumentMoniker": "CoreMasterDetailSPAForEvidence\\Migrations\\20250507121327_init.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Migrations\\20250507121327_init.cs",
+              "RelativeToolTip": "CoreMasterDetailSPAForEvidence\\Migrations\\20250507121327_init.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwFEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:13:28.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Program.cs",
+              "RelativeDocumentMoniker": "CoreMasterDetailSPAForEvidence\\Program.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\Program.cs",
+              "RelativeToolTip": "CoreMasterDetailSPAForEvidence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:02:20.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CoreMasterDetailSPAForEvidence.csproj",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj",
+              "RelativeDocumentMoniker": "CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj",
+              "RelativeToolTip": "CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T11:52:27.546Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

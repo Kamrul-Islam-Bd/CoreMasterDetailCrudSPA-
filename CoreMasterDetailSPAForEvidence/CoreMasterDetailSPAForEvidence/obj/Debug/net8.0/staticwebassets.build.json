@@ -1,0 +1,1155 @@
+{
+  "Version": 1,
+  "Hash": "HQrzS9tIZEgJkcnT7pQHQrJG84Vg0UOdg+3/I3yDntM=",
+  "Source": "CoreMasterDetailSPAForEvidence",
+  "BasePath": "_content/CoreMasterDetailSPAForEvidence",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CoreMasterDetailSPAForEvidence\\wwwroot",
+      "Source": "CoreMasterDetailSPAForEvidence",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\",
+      "BasePath": "_content/CoreMasterDetailSPAForEvidence",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "SourceId": "CoreMasterDetailSPAForEvidence",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\",
+      "BasePath": "_content/CoreMasterDetailSPAForEvidence",
+      "RelativePath": "bootstrap/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "46ein0sx1k",
+      "Integrity": "PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "SourceId": "CoreMasterDetailSPAForEvidence",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\",
+      "BasePath": "_content/CoreMasterDetailSPAForEvidence",
+      "RelativePath": "bootstrap/js/bootstrap.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "63fj8s7r0e",
+      "Integrity": "3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\30179f6b-8c1c-468c-9e93-e4abec35e487.png",
+      "SourceId": "CoreMasterDetailSPAForEvidence",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\",
+      "BasePath": "_content/CoreMasterDetailSPAForEvidence",
+      "RelativePath": "images/30179f6b-8c1c-468c-9e93-e4abec35e487#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ywhnp7muwu",
+      "Integrity": "jjA1Qy494IqpFryleKpo1lRjWfsHuu0nrTgm5ElDDww=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\30179f6b-8c1c-468c-9e93-e4abec35e487.png"
+    },
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\4c6d79f1-863e-4d0a-a3be-950352005136.png",
+      "SourceId": "CoreMasterDetailSPAForEvidence",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\",
+      "BasePath": "_content/CoreMasterDetailSPAForEvidence",
+      "RelativePath": "images/4c6d79f1-863e-4d0a-a3be-950352005136#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ot49t63fqr",
+      "Integrity": "VHppt+RgYxXjBcFcd+JoGv3UYMnUFQCvMGOh+/WkJjA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4c6d79f1-863e-4d0a-a3be-950352005136.png"
+    },
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\859d5fcf-118c-4601-a620-588b9844cd18.jpg",
+      "SourceId": "CoreMasterDetailSPAForEvidence",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\",
+      "BasePath": "_content/CoreMasterDetailSPAForEvidence",
+      "RelativePath": "images/859d5fcf-118c-4601-a620-588b9844cd18#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1y0pfuu4pv",
+      "Integrity": "96dcOolWtdvuapz8rwZ6dlcl6Sc2Z411tovQE/VrSJM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\859d5fcf-118c-4601-a620-588b9844cd18.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\8724e37e-e47f-45c7-a126-dd174b6d4b2d.png",
+      "SourceId": "CoreMasterDetailSPAForEvidence",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\",
+      "BasePath": "_content/CoreMasterDetailSPAForEvidence",
+      "RelativePath": "images/8724e37e-e47f-45c7-a126-dd174b6d4b2d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ot49t63fqr",
+      "Integrity": "VHppt+RgYxXjBcFcd+JoGv3UYMnUFQCvMGOh+/WkJjA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\8724e37e-e47f-45c7-a126-dd174b6d4b2d.png"
+    },
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\97113cc0-fcac-43cf-bc0c-d67678a2f31d.png",
+      "SourceId": "CoreMasterDetailSPAForEvidence",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\",
+      "BasePath": "_content/CoreMasterDetailSPAForEvidence",
+      "RelativePath": "images/97113cc0-fcac-43cf-bc0c-d67678a2f31d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ot49t63fqr",
+      "Integrity": "VHppt+RgYxXjBcFcd+JoGv3UYMnUFQCvMGOh+/WkJjA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\97113cc0-fcac-43cf-bc0c-d67678a2f31d.png"
+    },
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\ac1de1e2-d5a3-4a9a-99aa-f8366687fa3d.jpg",
+      "SourceId": "CoreMasterDetailSPAForEvidence",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\",
+      "BasePath": "_content/CoreMasterDetailSPAForEvidence",
+      "RelativePath": "images/ac1de1e2-d5a3-4a9a-99aa-f8366687fa3d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1y0pfuu4pv",
+      "Integrity": "96dcOolWtdvuapz8rwZ6dlcl6Sc2Z411tovQE/VrSJM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ac1de1e2-d5a3-4a9a-99aa-f8366687fa3d.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\c89ade52-8fad-44f5-9c9b-c865e9019353.jpg",
+      "SourceId": "CoreMasterDetailSPAForEvidence",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\",
+      "BasePath": "_content/CoreMasterDetailSPAForEvidence",
+      "RelativePath": "images/c89ade52-8fad-44f5-9c9b-c865e9019353#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1y0pfuu4pv",
+      "Integrity": "96dcOolWtdvuapz8rwZ6dlcl6Sc2Z411tovQE/VrSJM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\c89ade52-8fad-44f5-9c9b-c865e9019353.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\images7.jpg",
+      "SourceId": "CoreMasterDetailSPAForEvidence",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\",
+      "BasePath": "_content/CoreMasterDetailSPAForEvidence",
+      "RelativePath": "images/images7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2wxcz323fi",
+      "Integrity": "bvqV21wDnhinlIeMLruyCtAotOaXMA0cnlo9eFLUDd4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images7.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\jquery\\jquery.min.js",
+      "SourceId": "CoreMasterDetailSPAForEvidence",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\",
+      "BasePath": "_content/CoreMasterDetailSPAForEvidence",
+      "RelativePath": "jquery/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o1o13a6vjx",
+      "Integrity": "/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery\\jquery.min.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "bootstrap/css/bootstrap.min.46ein0sx1k.css",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 12:14:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "46ein0sx1k"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 12:14:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/js/bootstrap.min.63fj8s7r0e.js",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 12:14:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "63fj8s7r0e"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/js/bootstrap.min.js",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 12:14:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/30179f6b-8c1c-468c-9e93-e4abec35e487.png",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\30179f6b-8c1c-468c-9e93-e4abec35e487.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jjA1Qy494IqpFryleKpo1lRjWfsHuu0nrTgm5ElDDww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 10:24:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jjA1Qy494IqpFryleKpo1lRjWfsHuu0nrTgm5ElDDww="
+        }
+      ]
+    },
+    {
+      "Route": "images/30179f6b-8c1c-468c-9e93-e4abec35e487.ywhnp7muwu.png",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\30179f6b-8c1c-468c-9e93-e4abec35e487.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jjA1Qy494IqpFryleKpo1lRjWfsHuu0nrTgm5ElDDww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 10:24:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ywhnp7muwu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/30179f6b-8c1c-468c-9e93-e4abec35e487.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jjA1Qy494IqpFryleKpo1lRjWfsHuu0nrTgm5ElDDww="
+        }
+      ]
+    },
+    {
+      "Route": "images/4c6d79f1-863e-4d0a-a3be-950352005136.ot49t63fqr.png",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\4c6d79f1-863e-4d0a-a3be-950352005136.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VHppt+RgYxXjBcFcd+JoGv3UYMnUFQCvMGOh+/WkJjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 10:23:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ot49t63fqr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/4c6d79f1-863e-4d0a-a3be-950352005136.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VHppt+RgYxXjBcFcd+JoGv3UYMnUFQCvMGOh+/WkJjA="
+        }
+      ]
+    },
+    {
+      "Route": "images/4c6d79f1-863e-4d0a-a3be-950352005136.png",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\4c6d79f1-863e-4d0a-a3be-950352005136.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VHppt+RgYxXjBcFcd+JoGv3UYMnUFQCvMGOh+/WkJjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 10:23:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VHppt+RgYxXjBcFcd+JoGv3UYMnUFQCvMGOh+/WkJjA="
+        }
+      ]
+    },
+    {
+      "Route": "images/859d5fcf-118c-4601-a620-588b9844cd18.1y0pfuu4pv.jpg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\859d5fcf-118c-4601-a620-588b9844cd18.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45970"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"96dcOolWtdvuapz8rwZ6dlcl6Sc2Z411tovQE/VrSJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 10:25:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1y0pfuu4pv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/859d5fcf-118c-4601-a620-588b9844cd18.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-96dcOolWtdvuapz8rwZ6dlcl6Sc2Z411tovQE/VrSJM="
+        }
+      ]
+    },
+    {
+      "Route": "images/859d5fcf-118c-4601-a620-588b9844cd18.jpg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\859d5fcf-118c-4601-a620-588b9844cd18.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45970"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"96dcOolWtdvuapz8rwZ6dlcl6Sc2Z411tovQE/VrSJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 10:25:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-96dcOolWtdvuapz8rwZ6dlcl6Sc2Z411tovQE/VrSJM="
+        }
+      ]
+    },
+    {
+      "Route": "images/8724e37e-e47f-45c7-a126-dd174b6d4b2d.ot49t63fqr.png",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\8724e37e-e47f-45c7-a126-dd174b6d4b2d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VHppt+RgYxXjBcFcd+JoGv3UYMnUFQCvMGOh+/WkJjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 09:45:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ot49t63fqr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/8724e37e-e47f-45c7-a126-dd174b6d4b2d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VHppt+RgYxXjBcFcd+JoGv3UYMnUFQCvMGOh+/WkJjA="
+        }
+      ]
+    },
+    {
+      "Route": "images/8724e37e-e47f-45c7-a126-dd174b6d4b2d.png",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\8724e37e-e47f-45c7-a126-dd174b6d4b2d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VHppt+RgYxXjBcFcd+JoGv3UYMnUFQCvMGOh+/WkJjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 09:45:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VHppt+RgYxXjBcFcd+JoGv3UYMnUFQCvMGOh+/WkJjA="
+        }
+      ]
+    },
+    {
+      "Route": "images/97113cc0-fcac-43cf-bc0c-d67678a2f31d.ot49t63fqr.png",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\97113cc0-fcac-43cf-bc0c-d67678a2f31d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VHppt+RgYxXjBcFcd+JoGv3UYMnUFQCvMGOh+/WkJjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 10:29:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ot49t63fqr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/97113cc0-fcac-43cf-bc0c-d67678a2f31d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VHppt+RgYxXjBcFcd+JoGv3UYMnUFQCvMGOh+/WkJjA="
+        }
+      ]
+    },
+    {
+      "Route": "images/97113cc0-fcac-43cf-bc0c-d67678a2f31d.png",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\97113cc0-fcac-43cf-bc0c-d67678a2f31d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VHppt+RgYxXjBcFcd+JoGv3UYMnUFQCvMGOh+/WkJjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 10:29:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VHppt+RgYxXjBcFcd+JoGv3UYMnUFQCvMGOh+/WkJjA="
+        }
+      ]
+    },
+    {
+      "Route": "images/ac1de1e2-d5a3-4a9a-99aa-f8366687fa3d.1y0pfuu4pv.jpg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\ac1de1e2-d5a3-4a9a-99aa-f8366687fa3d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45970"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"96dcOolWtdvuapz8rwZ6dlcl6Sc2Z411tovQE/VrSJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 10:29:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1y0pfuu4pv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ac1de1e2-d5a3-4a9a-99aa-f8366687fa3d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-96dcOolWtdvuapz8rwZ6dlcl6Sc2Z411tovQE/VrSJM="
+        }
+      ]
+    },
+    {
+      "Route": "images/ac1de1e2-d5a3-4a9a-99aa-f8366687fa3d.jpg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\ac1de1e2-d5a3-4a9a-99aa-f8366687fa3d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45970"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"96dcOolWtdvuapz8rwZ6dlcl6Sc2Z411tovQE/VrSJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 10:29:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-96dcOolWtdvuapz8rwZ6dlcl6Sc2Z411tovQE/VrSJM="
+        }
+      ]
+    },
+    {
+      "Route": "images/c89ade52-8fad-44f5-9c9b-c865e9019353.1y0pfuu4pv.jpg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\c89ade52-8fad-44f5-9c9b-c865e9019353.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45970"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"96dcOolWtdvuapz8rwZ6dlcl6Sc2Z411tovQE/VrSJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 09:48:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1y0pfuu4pv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/c89ade52-8fad-44f5-9c9b-c865e9019353.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-96dcOolWtdvuapz8rwZ6dlcl6Sc2Z411tovQE/VrSJM="
+        }
+      ]
+    },
+    {
+      "Route": "images/c89ade52-8fad-44f5-9c9b-c865e9019353.jpg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\c89ade52-8fad-44f5-9c9b-c865e9019353.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45970"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"96dcOolWtdvuapz8rwZ6dlcl6Sc2Z411tovQE/VrSJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 09:48:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-96dcOolWtdvuapz8rwZ6dlcl6Sc2Z411tovQE/VrSJM="
+        }
+      ]
+    },
+    {
+      "Route": "images/images7.2wxcz323fi.jpg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\images7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bvqV21wDnhinlIeMLruyCtAotOaXMA0cnlo9eFLUDd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Jun 2024 12:12:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2wxcz323fi"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bvqV21wDnhinlIeMLruyCtAotOaXMA0cnlo9eFLUDd4="
+        }
+      ]
+    },
+    {
+      "Route": "images/images7.jpg",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\images7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bvqV21wDnhinlIeMLruyCtAotOaXMA0cnlo9eFLUDd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Jun 2024 12:12:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bvqV21wDnhinlIeMLruyCtAotOaXMA0cnlo9eFLUDd4="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.min.js",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\jquery\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 12:15:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.min.o1o13a6vjx.js",
+      "AssetFile": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\jquery\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 12:15:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1o13a6vjx"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    }
+  ]
+}

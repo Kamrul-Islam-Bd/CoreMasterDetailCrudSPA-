@@ -1,0 +1,121 @@
+﻿@model IEnumerable<Student>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <button id="btnCreate" class="btn btn-primary" asp-action="Create">Create New</button>
+</p>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AdmissionDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MobileNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsEnrolled)
+            </th>
+            <th>
+               Image
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Course.CourseName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RegistrationFee)
+            </th>
+            <th>Modules</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="student-list-body">
+@foreach (var item in Model) {
+            <tr data-student-id="@item.StudentId">
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AdmissionDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MobileNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsEnrolled)
+            </td>
+            <td>
+               <img  src="~/images/@item.ImageUrl" width="60" height="60" class="rounded"/>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Course.CourseName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RegistrationFee)
+            </td>
+            <td>
+                <ul>
+                        @foreach (var m in item.CourseModules)
+                        {
+                            <li>@m.ModuleName - @m.Duration</li>
+                        }
+                </ul>
+            </td>
+            <td>
+                    <a class="btn btn-primary btn-sm edit-btn" href="@Url.Action("EditPartial", "Students", new {id=item.StudentId})">Edit</a> |
+               
+                    @Html.ActionLink("Delete", "Delete", new { id = item.StudentId }, new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<div id="modalContainer">
+    
+</div>
+@section scripts {
+    <script>
+        $(document).ready(function () {
+
+            $("#btnCreate").click(function () {
+                $.get('@Url.Action("CreatePartial", "Students")', function (data) {
+                    $("#modalContainer").html('<div class="modal fade show" style="display:block;" aria-modal="true" role="dialog"><div class="modal-dialog modal-lg"><div class="modal-content">' + data + '</div></div></div><div class="modal-backdrop fade show"></div>');
+                    attachModalEventListeners();
+                });
+            });
+
+             $('#student-list-body').on('click', '.edit-btn', function (e) {
+                e.preventDefault();
+                var editUrl = $(this).attr('href');
+
+                $.get(editUrl, function (data) {
+                    $("#modalContainer").html('<div class="modal fade show" style="display:block;" aria-modal="true" role="dialog"><div class="modal-dialog modal-lg"><div class="modal-content">' + data + '</div></div></div><div class="modal-backdrop fade show"></div>');
+                    attachModalEventListeners("Edit", $(e.currentTarget).closest('tr').data('student-id'));
+                });
+            });
+
+            function attachModalEventListeners(action = "Create", studentId = null) {
+                $(document).off("click", ".modal-backdrop, .modal .btn-secondary").on("click", ".modal-backdrop, .modal .btn-secondary", function () {
+                    $("#modalContainer").empty();
+                });
+
+                
+            }
+        });
+    </script>
+}

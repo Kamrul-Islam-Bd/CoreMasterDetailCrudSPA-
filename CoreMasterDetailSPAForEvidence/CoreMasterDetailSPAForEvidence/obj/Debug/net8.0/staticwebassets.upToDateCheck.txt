@@ -1,0 +1,11 @@
+wwwroot\bootstrap\css\bootstrap.min.css
+wwwroot\bootstrap\js\bootstrap.min.js
+wwwroot\images\30179f6b-8c1c-468c-9e93-e4abec35e487.png
+wwwroot\images\4c6d79f1-863e-4d0a-a3be-950352005136.png
+wwwroot\images\859d5fcf-118c-4601-a620-588b9844cd18.jpg
+wwwroot\images\8724e37e-e47f-45c7-a126-dd174b6d4b2d.png
+wwwroot\images\97113cc0-fcac-43cf-bc0c-d67678a2f31d.png
+wwwroot\images\ac1de1e2-d5a3-4a9a-99aa-f8366687fa3d.jpg
+wwwroot\images\c89ade52-8fad-44f5-9c9b-c865e9019353.jpg
+wwwroot\images\images7.jpg
+wwwroot\jquery\jquery.min.js

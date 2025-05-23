@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\30179f6b-8c1c-468c-9e93-e4abec35e487.png",
+      "PackagePath": "staticwebassets\\images\\30179f6b-8c1c-468c-9e93-e4abec35e487.png"
+    },
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\4c6d79f1-863e-4d0a-a3be-950352005136.png",
+      "PackagePath": "staticwebassets\\images\\4c6d79f1-863e-4d0a-a3be-950352005136.png"
+    },
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\859d5fcf-118c-4601-a620-588b9844cd18.jpg",
+      "PackagePath": "staticwebassets\\images\\859d5fcf-118c-4601-a620-588b9844cd18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\8724e37e-e47f-45c7-a126-dd174b6d4b2d.png",
+      "PackagePath": "staticwebassets\\images\\8724e37e-e47f-45c7-a126-dd174b6d4b2d.png"
+    },
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\97113cc0-fcac-43cf-bc0c-d67678a2f31d.png",
+      "PackagePath": "staticwebassets\\images\\97113cc0-fcac-43cf-bc0c-d67678a2f31d.png"
+    },
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\ac1de1e2-d5a3-4a9a-99aa-f8366687fa3d.jpg",
+      "PackagePath": "staticwebassets\\images\\ac1de1e2-d5a3-4a9a-99aa-f8366687fa3d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\c89ade52-8fad-44f5-9c9b-c865e9019353.jpg",
+      "PackagePath": "staticwebassets\\images\\c89ade52-8fad-44f5-9c9b-c865e9019353.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\images\\images7.jpg",
+      "PackagePath": "staticwebassets\\images\\images7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WALTON\\Desktop\\Book\\CoreMasterDetailSPAForEvidence (1)\\CoreMasterDetailSPAForEvidence\\CoreMasterDetailSPAForEvidence\\wwwroot\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CoreMasterDetailSPAForEvidence.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CoreMasterDetailSPAForEvidence.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CoreMasterDetailSPAForEvidence.props",
+      "PackagePath": "build\\CoreMasterDetailSPAForEvidence.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CoreMasterDetailSPAForEvidence.props",
+      "PackagePath": "buildMultiTargeting\\CoreMasterDetailSPAForEvidence.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CoreMasterDetailSPAForEvidence.props",
+      "PackagePath": "buildTransitive\\CoreMasterDetailSPAForEvidence.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
